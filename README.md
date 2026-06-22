@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lean Adrian B. MUrillo</h1>
+[<h1 align="center">Hi 👋, I'm Lean Adrian B. MUrillo</h1>
 <h3 align="center">A passionate frontend developer from Davao City Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=90377sednaaa&label=Profile%20views&color=0e75b6&style=flat" alt="90377sednaaa" /> </p>
@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=90377sednaaa&show_icons=true&locale=en&layout=compact" alt="90377sednaaa" /></p>
 
+](https://90377sednaaa.github.io/Portfolio/)
