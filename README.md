@@ -49,46 +49,7 @@ Rebuilt admin, employer, and candidate interfaces — animations, skeleton loade
 
 <br/>
 
-### `04` — selected work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**New Century Books OIMS**
-*Laravel · Tailwind CSS · JavaScript*
-Frontend for an order & inventory management system — responsive UI and dynamic, dependent pages inside a Laravel app.
-
-</td>
-<td width="50%" valign="top">
-
-**PaoPals**
-*PHP · HTML · CSS · JavaScript*
-Backend and database design for a siopao online store — product listings, orders, stock tracking.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**XGBoost Phishing Detection**
-*Python · XGBoost · Flask · Scikit-learn*
-Trained a phishing-email classifier and served predictions through a Flask backend.
-
-</td>
-<td width="50%" valign="top">
-
-**Stress Predictor**
-*Python · Machine Learning · Flask*
-End-to-end app predicting stress levels from user input — model, backend, and result visualization.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### `05` — certificates & training
+### `04` — certificates & training
 
 IT Specialist in Java · IT Specialist in Databases · IT Specialist in Network Security *(Certiport)*
 Git and GitHub Workshop · JavaScript Workshop *(University of Mindanao)*
