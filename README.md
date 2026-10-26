@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LEAN%20ADRIAN%20MURILLO&fontSize=36&fontColor=F5E6FF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20CS%20Undergrad%20%E2%80%94%20Davao%20City%2C%20PH&descFontSize=15&descAlignY=62&descColor=B9A6E0" width="100%" alt="header" />
+<!-- Custom Local SVG Terminal Header (Zero Downtime) -->
+<img src="./assets/header.svg" width="100%" alt="Lean Adrian Murillo Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1800&color=C9B8F0&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development+(Laravel+%2B+React);Computer+Vision+%26+Deep+Learning+Research;Building+Scalable%2C+Accessible+Web+Applications" alt="typing" />
+<br/><br/>
+
+<!-- Fixed Typing Animation (No unescaped '&' XML crash) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=C9B8F0&center=true&vCenter=true&width=650&lines=%3E+Full-Stack+Web+Development+(Laravel+%2B+React+%2B+Tailwind);%3E+Computer+Vision+and+Deep+Learning+Research;%3E+Architecting+Fast%2C+Scalable%2C+and+Accessible+Interfaces" alt="Typing SVG" />
 
 <br/>
 
@@ -20,13 +24,13 @@
 
 <br/>
 
-### `01` — About
+### `01` — Overview
 
-Computer Science student at the **University of Mindanao** specializing in full-stack web development and computer vision research. Experienced in architecting responsive frontend interfaces, designing secure RESTful backends, and training lightweight deep learning models for object detection and image classification.
+Computer Science undergraduate at the **University of Mindanao** focused on full-stack web engineering and applied computer vision. I build clean, resilient web platforms with **Laravel** and **React**, and design lightweight deep learning architectures for agricultural object detection and disease classification.
 
-<br/>
+---
 
-### `02` — Tech Stack
+### `02` — Technical Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,py,php,java,dart,html,css,laravel,react,tailwind,flutter,mysql,postgres,firebase,git,figma&theme=dark" alt="Tech Stack" />
@@ -34,46 +38,57 @@ Computer Science student at the **University of Mindanao** specializing in full-
 
 <br/>
 
-- **Languages:** JavaScript, Python, PHP, Java, Dart, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** Laravel, React, Tailwind CSS, Flutter, PyTorch
-- **Databases & Tools:** MySQL, PostgreSQL, Firebase, Git, Linux/SSH, Figma
+| Layer                    | Technologies                                                       |
+| :----------------------- | :----------------------------------------------------------------- |
+| **Frontend & Mobile**    | React, JavaScript (ES6+), Tailwind CSS, Flutter, Dart, HTML5, CSS3 |
+| **Backend & Database**   | Laravel, PHP, RESTful APIs, MySQL, PostgreSQL, Firebase            |
+| **AI & Computer Vision** | Python, PyTorch, YOLO Architectures, Deep Learning, Jupyter        |
+| **DevOps & Workflow**    | Git, GitHub Actions, Linux / SSH (HPC), Vite, Figma                |
 
+---
+
+### `03` — Experience & Research _(Click to expand)_
+
+<details open>
+<summary><b>Full-Stack Developer Intern — Infinity Hub (NurseWay Platform)</b> · <code>Jul 2026 – Aug 2026</code></summary>
 <br/>
 
-### `03` — Experience
+- **UI Engineering:** Rebuilt admin, employer, and candidate portals with modular table, form, and pagination components, skeleton loading states, and smooth micro-interactions.
+- **Core Features:** Delivered multi-currency support, a career guide CMS, candidate verification pipelines, real-time messaging sync, and an upgraded talent-matching search engine.
+- **Security & Testing:** Locked down platform routes via scoped API endpoints and strict role-based access controls (RBAC), validated by a 51-test automated suite.
+</details>
 
-**Full-Stack Developer Intern** — **Infinity Hub** _(NurseWay Platform)_ · `Jul 2026 – Aug 2026`
-
-- **Frontend Architecture:** Overhauled admin, employer, and candidate dashboards using reusable table, form, and pagination components alongside custom skeleton loaders and UI transitions.
-- **Feature Engineering:** Shipped multi-currency support, a career guide CMS, candidate verification workflows, real-time messaging sync, and a redesigned talent search powered by an improved matching algorithm.
-- **Security & QA:** Hardened platform security via scoped API endpoints and strict role-based permission checks, backed by a 51-test automated suite.
-
+<details>
+<summary><b>Computer Vision & Deep Learning Research — University of Mindanao</b> · <code>2026 – Present</code></summary>
 <br/>
 
-### `04` — Certifications
+- **Object Detection & Attention Mechanisms:** Designing custom YOLO architectures incorporating multi-scale attention modules and dynamic upsampling for high-accuracy agricultural pest detection.
+- **Lightweight CNN Classification:** Co-authoring research on normalization-stabilized convolutional networks with Global Average Pooling for plant leaf disease diagnostics.
+</details>
+
+<details>
+<summary><b>Certifications & Credentials</b></summary>
+<br/>
 
 - **IT Specialist in Java** — _Certiport_
 - **IT Specialist in Databases** — _Certiport_
 - **IT Specialist in Network Security** — _Certiport_
+</details>
 
-<br/>
+---
 
-### `05` — Activity & Contributions
+### `04` — Telemetry & Contributions
 
 <div align="center">
+  <!-- Reliable Streak Stats Widget -->
+  <img src="https://streak-stats.demolab.com?user=90377Sednaaa&theme=dark&hide_border=true&background=0B0B12&stroke=262240&ring=8B7FD6&fire=E0A6C8&currStreakLabel=C9B8F0&sideLabels=C9B8F0&currStreakNum=F5E6FF&sideNums=F5E6FF&dates=7E769E" width="65%" alt="GitHub Streak" />
+
+<br/><br/>
+
+  <!-- Interactive Commit-Eating Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/90377Sednaaa/90377Sednaaa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/90377Sednaaa/90377Sednaaa/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/90377Sednaaa/90377Sednaaa/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-
-<br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=90377Sednaaa&bg_color=0B0B12&color=C9B8F0&line=8B7FD6&point=E0A6C8&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
 </div>
