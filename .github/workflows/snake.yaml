@@ -1,7 +1,0 @@
-- name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#E0A6C8&color_dots=#161426,#2E2654,#564799,#8B7FD6,#6FD6C1
